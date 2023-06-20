@@ -30,7 +30,7 @@ File: example1.txt, Lines:        5 example1.txt
 File: example2.txt, Lines:        5 example2.txt
 File: example4.txt, Lines:        5 example4.txt
 ./countlines.sh -m Jun
-     
+
 Looking for files where the month is: Jun
 File: countlines.sh, Lines:       55 countlines.sh
 File: example1.txt, Lines:        5 example1.txt
